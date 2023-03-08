@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    text-align: center;
+
+}
+input{
+    border: 0;
+    background: #e0e0e0;
+    line-height: 40px;
+    border-radius: 20px;
+    padding: 0 20px 0 20px;
+    width: 250px;
+    font-size: 15px;
+    margin-top: 20px;
+}
+input:focus{
+    outline: 0;
+}
+button{
+    margin-top: 60px;
+    border: 0;
+    background: cornflowerblue;
+    border-radius: 20px;
+    height: 40px;
+    width: 200px;
+    color: white;
+    font-size: 20px;
+}
+button:focus{
+    outline: 0;
+    background: #3b4f72;
+}
